@@ -1,13 +1,13 @@
 /* Your CSS Code here. */
 div{
-    Width: 200px;
+    Width:200px;
 	background-color:purple;
 	padding:10px;
 	border-left:5px solid green;
 }
 
 #heading{
-font-size: 20px;
+font-size:20px;
 color: white;
 Text-decoration: underline;
 }
