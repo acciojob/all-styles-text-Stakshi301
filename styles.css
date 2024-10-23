@@ -3,12 +3,10 @@
     width:200px;
 } */
 .main{
-/* box-sizing: border-box; */
     width: 200px; 
     background-color:purple;
     border-left:5px solid green;
     padding: 10px; 
-
 }
 
 #heading{
